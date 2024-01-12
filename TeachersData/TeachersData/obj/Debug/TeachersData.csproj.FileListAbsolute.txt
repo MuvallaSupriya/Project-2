@@ -1,0 +1,7 @@
+C:\Users\muval\Documents\Final Project(2)\TeachersData\TeachersData\bin\Debug\TeachersData.exe.config
+C:\Users\muval\Documents\Final Project(2)\TeachersData\TeachersData\bin\Debug\TeachersData.exe
+C:\Users\muval\Documents\Final Project(2)\TeachersData\TeachersData\bin\Debug\TeachersData.pdb
+C:\Users\muval\Documents\Final Project(2)\TeachersData\TeachersData\obj\Debug\TeachersData.csproj.AssemblyReference.cache
+C:\Users\muval\Documents\Final Project(2)\TeachersData\TeachersData\obj\Debug\TeachersData.csproj.CoreCompileInputs.cache
+C:\Users\muval\Documents\Final Project(2)\TeachersData\TeachersData\obj\Debug\TeachersData.exe
+C:\Users\muval\Documents\Final Project(2)\TeachersData\TeachersData\obj\Debug\TeachersData.pdb

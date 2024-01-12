@@ -1,0 +1,8 @@
+Teachers Records
+ID	Name	Class	Section
+1	A.Anu	 2	A
+2 	A.Bhavya 1 	A
+3 	B.Aruna	 2      B   
+  
+   
+  
